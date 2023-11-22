@@ -1,0 +1,30 @@
+Jadi inputan awalnya adalah 
+-*+abcd
+yang harusnya mengeluarkan output
+(((a + b) * c) - d)
+
+proses pada prefix
+d
+
+c
+d
+
+b
+c
+d
+
+a
+b
+c
+d
+
+a+b
+c
+d
+
+(a+b)* c
+d
+
+(a+b)* c - d
+
+length = 7
