@@ -1,0 +1,100 @@
+00000033814#Adi Wirya#Informatika
+00000045586#James Christian Wira#Informatika
+00000036619#Oktavius Wiguna#Informatika
+00000014687#Mario Alexander#Informatika
+00000019388#Leonardo Pratama#Informatika
+00000042645#Vionie Laorensa#Informatika
+00000027552#Justin Susanto#Informatika
+00000027041#Leonardo#Informatika
+00000013399#Cindy Michelle#Informatika
+00000048606#Handriki Kasa#Informatika
+00000044348#Matthew Evans#Informatika
+00000046515#Calvin Chandra Gunawan#Informatika
+00000030226#Ezra Abednego#Informatika
+00000033295#Devi Devani#Informatika
+00000036436#Lionel#Informatika
+00000048742#Tio Jesselyn#Informatika
+00000032415#Septian Mulyadi#Informatika
+00000042098#Ega Pamungkas#Informatika
+00000032492#Yehezkiel Gunawan#Informatika
+00000043461#Septaria#Informatika
+00000011287#Michael Roni#Informatika
+00000030014#Adnreas Agustinus#Informatika
+00000012490#Patricia Dinda#Informatika
+00000042262#Aaron Effendi#Informatika
+00000022906#Steven Wijaya#Informatika
+00000031780#Steve Manumpil#Informatika
+00000015290#Michelle Edhitya#DKV
+00000028897#Joscelind Lukas#DKV
+00000047073#Ivana Gunawan#Ilmu Komunikasi
+00000011014#Stefanus Wijaya#DKV
+00000017758#Maria Lintang#Ilmu Komunikasi
+00000033061#Chrissita Setiadi#DKV
+00000043614#Febe Febrita#Informatika
+00000047369#Albert Agustian#Sistem Informasi
+00000012345#Siapa aja#Kepo
+00000075847#Andaru Hymawan Primayudha#Informatika
+00000012345#Alea Carolina Science Gayo#Manajemen
+00000043212#Ammar Hafizh#Manajemen
+123456#Muhammad Ali#Teknik
+234567#Ahmad Rizky#Manajemen
+345678#Riana Fitria#Psikologi
+456789#Diana Sari#Ilmu Komunikasi
+567890#Rizki Ramadhan#Arsitektur
+678901#Fitri Aulia#Ekonomi
+789012#Siti Fatimah#Agribisnis
+890123#Budi Santoso#Farmasi
+901234#Ahmad Rifai#Teknik Sipil
+12345#Ika Nurhalimah#Ilmu Hukum
+123450#Muhammad Hasan#Teknik Elektro
+234561#Devi Anggraini#Teknik Industri
+345672#Ridwan Pratama#Manajemen
+456783#Firman Nurjaman#Manajemen
+567894#Dinda Rahma#Sosiologi
+678905#Agus Setiawan#Psikologi Klinis
+789016#Mira Wati#BahasaInggris
+890127#Rina Wijaya#Biologi
+901238#Budi Santoso#Agroteknologi
+12349#Dedi Yusuf#Teknik Kimia
+123460#Maulana Malik#Teknik Mesin
+234571#Dewi Anggraeni#Teknik
+345682#Ridwan Purnama#Manajemen
+456793#Yudha Kusuma#Manajemen
+567904#Dina Yuliana#Psikologi
+678015#Agus Widodo#Sistem Informasi
+789126#Roni Santoso#Manajemen SDM
+890237#Retno Sari#Ilmu Gizi
+901348#Mira Safitri#Farmasi Klinis
+12345#John Doe#Teknik
+43219#Jane Smith#Ekonomi
+67890#Ahmad Abdullah#Psikologi
+98765#Rina Fitriana#Hukum
+76543#Steven Lee#Akuntansi
+54321#Maria Rodriguez#Arsitektur
+45678#Hana Lee#Psikologi
+23456#Aldi Setiawan#Sistem Informasi
+34567#Fira Amelia#Manajemen
+21234#Rizky Perdana#Ilmu Komunikasi
+56789#Kurnia Indah#Hukum
+65432#Wahyu Triyono#Teknik Elektro
+89012#Indah Puspita#Psikologi
+32109#Budi Santoso#Teknik Sipil
+76789#Ayu Lestari#Ekonomi
+45612#Asep Mulyana#Teknik Mesin
+78901#Dina Wijaya#Hukum
+41234#Dewi Handayani#Manajemen
+67891#Rama Wirawan#Ilmu Komunikasi
+12345#John Doe#Teknik
+43219#Jane Smith#Ekonomi
+67890#Ahmad Abdullah#Psikologi
+98765#Rina Fitriana#Hukum
+76543#Steven Lee#Akuntansi
+54321#Maria Rodriguez#Arsitektur
+45678#Hana Lee#Psikologi
+23456#Aldi Setiawan#Sistem Informasi
+34567#Fira Amelia#Manajemen
+21234#Rizky Perdana#Ilmu Komunikasi
+56789#Kurnia Indah#Hukum
+65432#Wahyu Triyono#Teknik Elektro
+89012#Indah Puspita#Psikologi
+32109#Budi Santoso#Teknik Sipil

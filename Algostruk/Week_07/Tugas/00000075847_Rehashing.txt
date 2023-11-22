@@ -1,0 +1,10 @@
+a) Rehashing dilakukan untuk mengatasi overflow di tabel hash, yaitu ketika kapasitas tabel hash sudah mencapai batasnya dan sudah tidak ada slot lagi.
+b) Berdasarkan kode tersebut, akan dilakukan ketika kapasitas tabel hash sudah mencapai 70%
+c) Step:
+    1. Buat array untuk menyimpan data pada tabel hash
+    2. Hitung ukuran baru untuk tabel hash, bisa dua kali lipatnya ataupun berdasarkan nilai bilangan prima terdekat
+    3. Buat tabel yang baru dari perhitungan sebelumnya
+    4. Dari array yang pertama kali dibuat ke tabel hash yang dihitung tadi
+    5. Hapus array dan gunakan tabel hashnya
+d) Sieve of Erathosthenes adalah algoritma untuk mencari bilangan prima dari 1 sampai n, dengan cara menghapus kelipatan bilangan prima tersebut.
+e) Tidak harus, namun dengan menggunakan bilangan prima sebagai ukuran baru akan lebih efisien.
